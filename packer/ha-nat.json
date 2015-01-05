@@ -31,7 +31,7 @@
   "provisioners": [
     {
       "type": "file",
-      "source": "ha-nat.sh",
+      "source": "files/ha-nat.sh",
       "destination": "/tmp/ha-nat.sh"
     },
     {
