@@ -1,0 +1,10 @@
+{
+    "ami_name": "Ha-Nat",
+    "aws_access_key": "",
+    "aws_secret_key": "",
+    "source_ami": "ami-cd3aff89",
+    "description": "Ha-Nat Amazon 2015.03",
+    "region": "us-west-1",
+    "subnet_id": "",
+    "vpc_id": ""
+}
